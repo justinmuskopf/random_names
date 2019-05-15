@@ -1,5 +1,5 @@
 # random_names
-
+All names were sourced from *names.mongabay.com*
 ## Contents
 * `male_first_names.txt` - Contains over 1,200 typically Male first names
 * `female_first_names.txt` - Contains over 4,000 typically Female first names
