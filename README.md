@@ -9,8 +9,8 @@ All names were sourced from *names.mongabay.com*
 	- The `customer` table contaiins `customer` objects of schema:
 	```json
 		{
-			"id": int,
-			"firstName": string,
-			"lastName": string
+			"id": "int",
+			"firstName": "string",
+			"lastName": "string"
 		}
 	```
